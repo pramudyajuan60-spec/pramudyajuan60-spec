@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/juan-banner.png" width="100%" alt="JUAN.OS Hacker Profile">
+<img src="./juan-banner.png.png" width="100%" alt="JUAN.OS Hacker Profile">
 
 <br>
 
